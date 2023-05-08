@@ -1,0 +1,187 @@
+.class1,.class2,.class3,.class4,.class5,.class6,.class7,.class8,.class9{
+        background-image: url("background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin:20px;
+}
+.class1,.class2,.class3,.class4,.class5,.class6,.class7,.class8,.class9{
+    color:white;
+}
+#subclass1{
+    position:relative;
+    left: 31vw;
+    top:6vh;
+}
+#subclass2{
+    position:relative;
+    left: 38vw;
+}
+#subclass3{
+    position:relative;
+    bottom: 45vh;
+    left:34vw;
+    top: -5vh;
+}
+#subclass4{
+    position: relative;
+    left:3vw;
+    bottom:7vh;
+    font-size:25px;
+}
+#subclass5{
+    position: relative;
+    left:40vw;
+    font-size: 40px;
+}
+#subclass7,#subclass9,#subclass11{
+    position: relative;
+    left:34vw;
+    bottom:4vh;
+    font-size: 25px;
+}
+#otherclass1{
+    position: relative;
+    left:14vw;
+    margin-right: 81px;
+}
+#otherclass2{
+    position: relative;
+    left:14vw;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.class1{
+    margin:0;
+}
+.otherclass3{
+    margin-top:17px;
+    margin-left: 64px;
+    margin-right: 81px;
+    border: 1px solid rgb(172, 124, 204);
+    border-radius: 10px;
+   box-sizing: border-box;
+   padding:20 px;
+}
+.otherclass3 ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    padding: 36px;
+    font-size: 20px;
+  }
+.otherclass4,.otherclass5,.otherclass6,.otherclass7,.otherclass8{
+    display: inline-block;
+    margin:38px;
+}
+#subclass6{
+    position: relative;
+    left:23vw;
+    font-size: 40px;
+}
+#subclass10{
+    position: relative;
+    left:34vw;
+    bottom:0vh;
+    font-size: 25px;
+}
+.otherclass9{
+   padding: 27px;
+}
+#subclass8{
+    position: relative;
+    left:29vw;
+    bottom:4vh;
+    font-size: 40px;
+}
+.otherclass10{
+    padding:38px;
+}
+.class1{
+    height: 291px;
+}
+.class2{
+    height: 530px;
+}
+.class3{
+    height: 345px;
+}
+.class4{
+    height: 310px;
+}
+.class5{
+    height: 366px;
+}
+.class6{
+    height: 354px;
+}
+.class7{
+    height: 432px;
+}
+.class8{
+    height: 355px;
+}
+.class9{
+    height: 275px;
+}
+.class4 img{
+    position: relative;
+    bottom: 126px;
+}
+.class3 img{
+    position: relative;
+    bottom:-3px;
+}
+.class7 img{
+    position: relative;
+    bottom:207px;
+}
+.class1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+body{
+    background-color: rgb(129 48 191);
+}
+.someotherclass1{
+    position: relative;
+    left: 32vw;
+    font-size: 20px;
+}
+.someotherclass2{
+    text-decoration: none;
+}
+.someotherclass3{
+    position:relative;
+    left: 30vw;
+    font-size: 20px;
+}
+.someothercclass4{
+    position: relative;
+    left:17vw;
+}
+.someotherclass4{
+position: relative;
+left:17vw;
+}
+.otherclass4{
+    font-size: 20px;
+    position: relative;
+    left:5vw;
+}
+.otherclass10{
+    font-size: 20px;
+}
+.othercclass10{
+    font-size: 25px;
+}
+#subclass7{
+    font-size: 40px;
+}
+.someotherclass5{
+    font-size: 20px;
+}
+.someotherclass6{
+    font-size: 20px;
+    padding:60px;
+}
